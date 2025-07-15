@@ -1,4 +1,4 @@
-# Next.js on Netlify Platform Starter
+# Next.js on Netlify Platform Starter!Z
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
