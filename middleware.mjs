@@ -5,7 +5,7 @@ async function getRedirectDestination(pathname) {
   // This could fetch from a CMS, database, or static config
   // For now, just using a simple object
   const redirects = {
-    'test': 'image-cdn',
+    '/test': '/image-cdn',
   }
   
   return redirects[pathname]
